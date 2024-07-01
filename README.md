@@ -1,6 +1,6 @@
 # Hello World! 🌍
 
-My name is **Kamyar Bashar**.
+My name is **Kamyar Bashar** 👋
 
 - **Profession**: Software Engineer 🔧
 - **Currently Researching**: Quantum Information ✒️

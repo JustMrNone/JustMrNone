@@ -8,7 +8,7 @@ My name is **Kamyar Bashar** 👋
 - **Contanct**: kamyar.bashar.dev@gmail.com ⚡
 
   
-## My Skills
+## My Skills 🦾
 
 - **Programming Languages**: Python, JavaScript, C++, C, SQL, HTML/CSS
 - **Frameworks & Libraries**: Django, Flask, Pandas, matplotlib, bookeh,...

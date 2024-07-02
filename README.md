@@ -10,7 +10,7 @@ My name is **Kamyar Bashar** 👋
   
 ## 🦾 My Skills
 
-- **Programming Languages**: Python, JavaScript, C++, C, SQL, HTML/CSS
-- **Frameworks & Libraries**: Django, Flask, Pandas, matplotlib, bookeh,...
-- **Tools & Platforms**: Git, Docker
-- **DMBS**: PostgreSQL, SQLite 
+- **Programming Languages**: Python, JavaScript, C++, C, SQL, HTML/CSS, SASS
+- **Frameworks & Libraries**: Django, Flask, Pandas, matplotlib, bookeh, React...
+- **Tools & Platforms**: Git, Docker, Pipenv & .piplock
+- **DMBS**: PostgreSQL, MySQL ,SQLite

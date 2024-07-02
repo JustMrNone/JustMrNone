@@ -24,6 +24,9 @@ My name is **Kamyar Bashar** 👋
 
 [Kamyar Bashar's Other Certifications.pdf](https://github.com/user-attachments/files/16071910/Kamyar.Bashar.s.Other.Certifications.pdf)
 
+## 🤘 About Me
+
+As a dedicated software engineer with a deep interest in quantum information, I specialize in utilizing Django to develop interactive and dynamic web applications. My work is driven by a passion for innovation and a commitment to excellence. I am keen to collaborate on cutting-edge projects and research initiatives in the realm of quantum information.
 
 ## 📧 Contact 
 - **Email**: kamyar.bashar.dev@gmail.com ⚡

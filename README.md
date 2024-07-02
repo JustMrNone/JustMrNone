@@ -14,6 +14,8 @@ My name is **Kamyar Bashar** 👋
 - **Tools & Platforms**: Git, Docker, Pipenv & .piplock
 - **DMBS**: PostgreSQL, MySQL ,SQLite
 
+## 📜 Certifications 
+
 ### HarvardX Certifications 
 
 [Kamyar Bashar's HarvardX Certificates.pdf](https://github.com/user-attachments/files/16071887/Kamyar.Bashar.s.HarvardX.Certificates.pdf)
@@ -23,6 +25,5 @@ My name is **Kamyar Bashar** 👋
 [Kamyar Bashar's Other Certifications.pdf](https://github.com/user-attachments/files/16071910/Kamyar.Bashar.s.Other.Certifications.pdf)
 
 
-
-
-**Contanct**: kamyar.bashar.dev@gmail.com ⚡
+## 📧 Contact 
+kamyar.bashar.dev@gmail.com ⚡

@@ -26,4 +26,4 @@ My name is **Kamyar Bashar** 👋
 
 
 ## 📧 Contact 
--**Email**: kamyar.bashar.dev@gmail.com ⚡
+- **Email**: kamyar.bashar.dev@gmail.com ⚡

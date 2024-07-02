@@ -5,7 +5,6 @@ My name is **Kamyar Bashar** 👋
 - **Profession**: Software Engineer 🔧
 - **Currently Researching**: Quantum Information, Machine Learning ✒️
 - **Collaboration Interests**: Developing interactive web applications using Django, data analysis and conducting research on Quantum Information 🤝
-
   
 ## 🦾 My Skills
 
@@ -26,7 +25,7 @@ My name is **Kamyar Bashar** 👋
 
 ## 🤘 About Me
 
-As a dedicated software engineer with a deep interest in quantum information, I specialize in utilizing Django to develop interactive and dynamic web applications. My work is driven by a passion for innovation and a commitment to excellence. I am keen to collaborate on cutting-edge projects and research initiatives in the realm of quantum information.
+*As a dedicated software engineer with a deep interest in quantum information, I specialize in utilizing Django to develop interactive and dynamic web applications. My work is driven by a passion for innovation and a commitment to excellence. I am keen to collaborate on cutting-edge projects and research initiatives in the realm of quantum information.*
 
 ## 📧 Contact 
 - **Email**: kamyar.bashar.dev@gmail.com ⚡

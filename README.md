@@ -24,4 +24,5 @@ My name is **Kamyar Bashar** 👋
 
 
 
-- **Contanct**: kamyar.bashar.dev@gmail.com ⚡
+
+**Contanct**: kamyar.bashar.dev@gmail.com ⚡

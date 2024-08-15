@@ -2,7 +2,7 @@
 
 My name is **Kamyar Bashar** 👋
 
-- **Profession**: Software Engineer 🔧
+- **Profession**: Full-Stack Software Engineer 🔧
 - **Currently Researching**: Quantum Information, Machine Learning ✒️
 - **Collaboration Interests**: Developing interactive web applications using Django, data analysis and conducting research on Quantum Information 🤝
   

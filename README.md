@@ -8,10 +8,10 @@ My name is **Kamyar Bashar** 👋
   
 ## 🦾 My Skills
 
-- **Programming Languages**: Python, JavaScript, C++, C, SQL, HTML/CSS&SASS
-- **Frameworks & Libraries**: Django, Flask, Rest, Pandas, matplotlib, bookeh, React...
+- **Programming Languages**: Python, JavaScript, C++, C, SQL, NoSQL, HTML/CSS&SASS
+- **Frameworks & Libraries**: Django, Flask, Rest, Pandas, matplotlib, bookeh, React, Bootsrap...
 - **Tools & Platforms**: Git, Docker, Pipenv & .piplock
-- **DMBS**: PostgreSQL, MySQL ,SQLite, NoSQL, MangoDB
+- **DMBS**: PostgreSQL, MySQL ,SQLite, MangoDB
 
 ## 📜 Certifications 
 

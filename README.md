@@ -13,6 +13,7 @@ My name is **Kamyar Bashar** 👋
 - **Tools & Platforms**: Git, Docker, Nginx, Kubernetes, AWS, npm/yarn, Pipenv, Poetry, Jenkins, GitHub Actions, GitLab CI, ...
 - **DMBS**: PostgreSQL, MySQL , Oracle, SQLite, MangoDB, Redis, SQL Server, ...
 
+<!--
 ## 📜 Certifications 
 
 ### HarvardX Certifications 
@@ -22,6 +23,7 @@ My name is **Kamyar Bashar** 👋
 ### Other Certifications 
 
 [Kamyar Bashar's Other Certifications.pdf](https://github.com/user-attachments/files/16071910/Kamyar.Bashar.s.Other.Certifications.pdf)
+-->
 
 ## 🤘 About Me
 

@@ -3,9 +3,9 @@
 </div> 
 
 <div>  
-<a href="https://justmrnone.github.io/NeverEndingPong">
-    <video src="https://justmrnone.github.io/NeverEndingPong/pong.mp4" width="100%" autoplay loop muted playsinline style="pointer-events: none;"></video>
-</a>
+
+   <a href="https://justmrnone.github.io/NeverEndingPong"><img src="https://justmrnone.github.io/NeverEndingPong/Pong.svg" width="100%"></a>
+
 </div>
 
 ## 🦾 My Skills

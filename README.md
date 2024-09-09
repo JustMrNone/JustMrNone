@@ -6,7 +6,7 @@
    <a href="https://justmrnone.github.io/NeverEndingPong"><img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" width="100%"></a>
 
 </div>
-I'm in progress
+
 ## 🦾 My Skills
 
 - **Programming Languages**: Python, JavaScript/TypeScript, R, C++, C, SQL, Rust, HTML/CSS&SASS, ...

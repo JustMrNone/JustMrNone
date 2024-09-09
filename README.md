@@ -1,5 +1,7 @@
 # Hello World! 🌍
-
+<div>
+  <img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" width="100%">
+</div>
 My name is **Kamyar Bashar** 👋
 
 - **Profession**: Full-Stack Software Engineer, Data analyst. 🔧
@@ -7,9 +9,7 @@ My name is **Kamyar Bashar** 👋
 - **Collaboration Interests**: Developing interactive web applications using Django and Next.js, large-scale data analysis, and conducting research on Quantum Information. 🤝
 
 
-<div>
-  <img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" width="100%">
-</div>
+
 
 ## 🦾 My Skills
 

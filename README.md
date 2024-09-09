@@ -1,4 +1,7 @@
-# Hello World! 🌍
+<div align="center">
+  # Hello World! 🌍
+</div> 
+
 <div>
   <img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" width="100%">
 </div>

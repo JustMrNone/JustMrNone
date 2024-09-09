@@ -6,15 +6,6 @@
   <img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" width="100%">
 </div>
 
-
-
-- **Profession**: Full-Stack Software Engineer, Data analyst. 🔧
-- **Currently Researching**: Quantum Information, Machine Learning. ✒️
-- **Collaboration Interests**: Developing interactive web applications using Django and Next.js, large-scale data analysis, and conducting research on Quantum Information. 🤝
-
-
-
-
 ## 🦾 My Skills
 
 - **Programming Languages**: Python, JavaScript/TypeScript, R, C++, C, SQL, Rust,HTML/CSS&SASS, ...
@@ -37,7 +28,10 @@ Poetry, Jenkins, GitHub Actions, GitLab CI
 
 ## 🤘 About Me
 
-*As a dedicated software engineer with a deep interest in quantum information, I specialize in utilizing Django to develop interactive and dynamic web applications. My work is driven by a passion for innovation and a commitment to excellence. I am keen to collaborate on cutting-edge projects and research initiatives in the realm of quantum information.*
+- **Profession**: Full-Stack Software Engineer, Data analyst. 🔧
+- **Currently Researching**: Quantum Information, Machine Learning. ✒️
+- **Collaboration Interests**: Developing interactive web applications using Django and Next.js, large-scale data analysis, and conducting research on Quantum Information. 🤝
+
 
 ## 📧 Contact 
 - **Email**: kamyar.bashar.dev@gmail.com ⚡

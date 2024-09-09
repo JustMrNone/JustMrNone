@@ -3,8 +3,7 @@
 </div> 
 
 <div>  
-<iframe src="https://justmrnone.github.io/NeverEndingPong/Pong.svg" width="500" height="500"></iframe>
-   <a href="https://justmrnone.github.io/NeverEndingPong"><img src="" width="100%"></a>
+   <a href="https://justmrnone.github.io/NeverEndingPong"><img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" width="100%"></a>
 
 </div>
 

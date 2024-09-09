@@ -4,7 +4,7 @@
 </div>
 
 
-My name is **Kamyar Bashar** 👋
+My name is **Kamyar Bashar** 
 
 - **Profession**: Full-Stack Software Engineer, Data analyst. 🔧
 - **Currently Researching**: Quantum Information, Machine Learning. ✒️

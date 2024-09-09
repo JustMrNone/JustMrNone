@@ -7,7 +7,7 @@ My name is **Kamyar Bashar** 👋
 - **Collaboration Interests**: Developing interactive web applications using Django and Next.js, large-scale data analysis, and conducting research on Quantum Information. 🤝
 
 
-<div align="center">
+<div>
   <img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" width="100%">
 </div>
 

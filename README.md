@@ -2,8 +2,8 @@
   <h1>Hello World! 🌍</h1>
 </div> 
 
-<div>
-  ![Pong](https://justmrnone.github.io/NeverEndingPong/)
+<div>  
+  <a href="https://justmrnone.github.io/NeverEndingPong"><img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" width="100%"></a>
 </div>
 
 ## 🦾 My Skills

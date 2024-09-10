@@ -4,11 +4,11 @@
 
 
 
-<div>  
-   <a href="https://justmrnone.github.io/NeverEndingPong"><img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" width="100%" height="177px"></a>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://justmrnone.github.io/NeverEndingPong">
+        <img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" style="max-width: 100%; height: auto; display: block;">
+    </a>
 </div>
-
-
 
 ## 🦾 My Skills
 

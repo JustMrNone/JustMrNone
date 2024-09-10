@@ -6,7 +6,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://justmrnone.github.io/NeverEndingPong">
-        <img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" style="max-width: 100%; height: auto; display: block;">
+        <img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" style="max-width: 100%; height: auto; display: block; object-fit: cover;">
     </a>
 </div>
 

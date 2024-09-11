@@ -2,7 +2,7 @@
   <h1>Hello World! 🌍</h1>
 </div> 
 
-<div>  
+<div align="center">  
    <a href="https://justmrnone.github.io/NeverEndingPong">
       <img src="https://justmrnone.github.io/NeverEndingPong/Pong.gif" width="800">
    </a>

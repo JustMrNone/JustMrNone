@@ -3,11 +3,11 @@
 </div> 
 
 
-<center>
-     <a href="https://justmrnone.github.io/NeverEndingPong"><img src="https://justmrnone.github.io/NeverEndingPong/Pong.gif" width="100%"></a>
-</center>
-
-
+<div style="width: 100%;">  
+   <a href="https://justmrnone.github.io/NeverEndingPong">
+      <img src="https://justmrnone.github.io/NeverEndingPong/Pong.gif" style="width: 100%; height: auto;">
+   </a>
+</div>
 
 ## 🦾 My Skills
 

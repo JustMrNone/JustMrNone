@@ -2,12 +2,12 @@
   <h1>Hello World! 🌍</h1>
 </div> 
 
-
-<div style="width: 100%;">  
+<div>  
    <a href="https://justmrnone.github.io/NeverEndingPong">
-      <img src="https://justmrnone.github.io/NeverEndingPong/Pong.gif" style="width: 100%; height: auto;">
+      <img src="https://justmrnone.github.io/NeverEndingPong/Pong.gif" width="800">
    </a>
 </div>
+
 
 ## 🦾 My Skills
 

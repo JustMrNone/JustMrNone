@@ -2,10 +2,9 @@
   <h1>Hello World! 🌍</h1>
 </div> 
 
-[![Pong Game]()](https://justmrnone.github.io/NeverEndingPong)
 <div align="center">  
    <a href="https://justmrnone.github.io/NeverEndingPong">
-      <img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" width="100%">
+      <img src="https://justmrnone.github.io/NeverEndingPong/animation.gif">
    </a>
 </div>
 

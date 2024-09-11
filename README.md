@@ -4,7 +4,7 @@
 
 
 <div>  
-   <a href="https://justmrnone.github.io/NeverEndingPong"><img src="https://justmrnone.github.io/NeverEndingPong/Pong.gif" width="100%"></a>
+   <a href="https://justmrnone.github.io/NeverEndingPong"><img style="width: 100%; max-width: 100%; height: auto;"></a>
 </div>
 
 ## 🦾 My Skills

@@ -3,8 +3,8 @@
 </div> 
 
 
-<div>  
-   <a href="https://justmrnone.github.io/NeverEndingPong"><img src="https://justmrnone.github.io/NeverEndingPong/Pong.gif" style="width: 100%; max-width: 100%; height: auto;"></a>
+<div width="100%">  
+   <a href="https://justmrnone.github.io/NeverEndingPong"><img src="https://justmrnone.github.io/NeverEndingPong/Pong.gif""></a>
 </div>
 
 ## 🦾 My Skills

@@ -26,7 +26,7 @@
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/LESS.png" height=50 title="LESS(Leaner Style Sheets)"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Sass.png" height=50 title="Sass(Syntactically Awesome Stylesheets)"></a>
 </div>
-
+<br>
 **Fʀᴀᴍᴇᴡᴏʀᴋꜱ & Lɪʙʀᴀʀɪᴇꜱ**: <br>
 <div>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/django.png" height=50 title="Django"></a>
@@ -40,7 +40,7 @@
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Matplotlib.png" height=50 title="Matplotlib"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/bokeh.png" height=50 title="Bookeh"></a>
 </div>
-
+<br>
 **Dᴀᴛᴀʙᴀꜱᴇ Mᴀɴᴀɢᴇᴍᴇɴᴛ Sʏꜱᴛᴇᴍꜱ**: <br> 
 <div>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=50 title="PostgreSQL"></a>
@@ -51,7 +51,7 @@
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Redis.png" height=50 title="Redis"></a>
 </div>
 
-
+<br>
 **Tᴏᴏʟꜱ & Pʟᴀᴛꜰᴏʀᴍꜱ**: <br>
 <div>
     <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=50 title="Git"></a>
@@ -68,8 +68,8 @@
 
 ## 🤘 Ａｂｏｕｔ Ｍｅ
 
-- **Pʀᴏꜰᴇꜱꜱɪᴏɴ**: Fᴜʟʟ-Sᴛᴀᴄᴋ Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ, Dᴀᴛᴀ ᴀɴᴀʟʏꜱᴛ. 🔧
-- **Cᴜʀʀᴇɴᴛʟʏ Rᴇꜱᴇᴀʀᴄʜɪɴɢ**: Qᴜᴀɴᴛᴜᴍ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ, Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ. ✒️
+**Pʀᴏꜰᴇꜱꜱɪᴏɴ**: Fᴜʟʟ-Sᴛᴀᴄᴋ Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ, Dᴀᴛᴀ ᴀɴᴀʟʏꜱᴛ. 🔧
+**Cᴜʀʀᴇɴᴛʟʏ Rᴇꜱᴇᴀʀᴄʜɪɴɢ**: Qᴜᴀɴᴛᴜᴍ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ, Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ. ✒️
 
 
 <!--

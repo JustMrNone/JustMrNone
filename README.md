@@ -23,7 +23,7 @@
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/SQL.png" height=50 title="SQL"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/HTML.png" height=50 title="HTML"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/CSS.png" height=50 title="CSS"></a>
-   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/LESS.png" height=55 title="LESS(Leaner Style Sheets)"></a>
+   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/LESS.png" height=50 title="LESS(Leaner Style Sheets)"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Sass.png" height=50 title="Sass(Syntactically Awesome Stylesheets)"></a>
 </div>
 

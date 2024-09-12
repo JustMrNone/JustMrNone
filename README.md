@@ -11,7 +11,7 @@
 
 ## 🦾 Ｍｙ Ｓｋｉｌｌｓ
 
-- **Programming Languages**: <br>
+- **Pʀᴏɢʀᴀᴍᴍɪɴɢ Lᴀɴɢᴜᴀɢᴇꜱ**: <br>
 <div>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Python.png" height=50 title="Python"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/JS.png" height=50 title="JavaScript"></a>
@@ -27,7 +27,7 @@
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Sass.png" height=50 title="Sass(Syntactically Awesome Stylesheets)"></a>
 </div>
 
-- **Frameworks & Libraries**: <br>
+- **Fʀᴀᴍᴇᴡᴏʀᴋꜱ & Lɪʙʀᴀʀɪᴇꜱ**: <br>
 <div>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/django.png" height=50 title="Django"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Flask.png" height=50 title="Flask"></a>
@@ -52,7 +52,7 @@
 </div>
 
 
-- **Tools & Platforms**: <br>
+- **Tᴏᴏʟꜱ & Pʟᴀᴛꜰᴏʀᴍꜱ**: <br>
 <div>
     <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=50 title="Git"></a>
     <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Docker.png" height=50 title="Docker"></a>
@@ -68,8 +68,8 @@
 
 ### 🤘 Ａｂｏｕｔ Ｍｅ
 
-- **Profession**: Full-Stack Software Engineer, Data analyst. 🔧
-- **Currently Researching**: Quantum Information, Machine Learning. ✒️
+- **Pʀᴏꜰᴇꜱꜱɪᴏɴ**: Fᴜʟʟ-Sᴛᴀᴄᴋ Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ, Dᴀᴛᴀ ᴀɴᴀʟʏꜱᴛ. 🔧
+- **Cᴜʀʀᴇɴᴛʟʏ Rᴇꜱᴇᴀʀᴄʜɪɴɢ**: Qᴜᴀɴᴛᴜᴍ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ, Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ. ✒️
 
 
 <!--

@@ -9,7 +9,7 @@
 </div>
 
 
-## 🦾 My Skills
+## 🦾 𝕄𝕪 𝕊𝕜𝕚𝕝𝕝𝕤
 
 - **Programming Languages**: <br>
 <div>

@@ -28,7 +28,6 @@
 </div>
 
 - **Frameworks & Libraries**: <br>
-Here are the image tags wrapped in anchor tags within the div:
 <div>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/django.png" height=50 title="Django"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Flask.png" height=50 title="Flask"></a>

@@ -27,6 +27,7 @@
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Sass.png" height=50 title="Sass(Syntactically Awesome Stylesheets)"></a>
 </div>
 <br>
+
 **Fʀᴀᴍᴇᴡᴏʀᴋꜱ & Lɪʙʀᴀʀɪᴇꜱ**: <br>
 <div>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/django.png" height=50 title="Django"></a>
@@ -41,6 +42,7 @@
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/bokeh.png" height=50 title="Bookeh"></a>
 </div>
 <br>
+
 **Dᴀᴛᴀʙᴀꜱᴇ Mᴀɴᴀɢᴇᴍᴇɴᴛ Sʏꜱᴛᴇᴍꜱ**: <br> 
 <div>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=50 title="PostgreSQL"></a>
@@ -52,6 +54,7 @@
 </div>
 
 <br>
+
 **Tᴏᴏʟꜱ & Pʟᴀᴛꜰᴏʀᴍꜱ**: <br>
 <div>
     <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=50 title="Git"></a>

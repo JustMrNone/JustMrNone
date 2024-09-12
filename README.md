@@ -62,8 +62,7 @@
     <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Yarn.png" height=50 title="yarn"></a>
 </div>
 <br>
-    <p>----</p>
-    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/And-more.png" height=50 title="yarn"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/And-more.png" height=50 title="More.."></a>
 
 ### 🤘 About Me
 

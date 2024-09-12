@@ -53,7 +53,7 @@
    <img src="https://justmrnone.github.io/NeverEndingPong/logos/Redis.png" height=50 title="Redis">
 </div>
 
-- **Tools & Platforms**:
+- **Tools & Platforms**: <br>
 <div>
    <img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=50 title="Git">
    <img src="https://justmrnone.github.io/NeverEndingPong/logos/Docker.png" height=50 title="Docker"> 

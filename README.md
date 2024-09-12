@@ -41,7 +41,7 @@
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/bokeh.png" height=50 title="Bookeh"></a>
 </div>
 
-- **DᴀᴛᴀBᴀꜱᴇ Mᴀɴᴀɢᴇᴍᴇɴᴛ Sʏꜱᴛᴇᴍꜱ**: <br> 
+- **Database Management Systems**: <br> 
 <div>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=50 title="PostgreSQL"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/MySql.png" height=50 title="MySQL"></a>

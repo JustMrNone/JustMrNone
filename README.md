@@ -66,7 +66,7 @@
 <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/And-more.png" height=50 title="More.."></a>
 -->
 
-### 🤘 About Me
+### 🤘 Ａｂｏｕｔ Ｍｅ
 
 - **Profession**: Full-Stack Software Engineer, Data analyst. 🔧
 - **Currently Researching**: Quantum Information, Machine Learning. ✒️

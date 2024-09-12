@@ -54,14 +54,14 @@
 </div>
 
 - **Tools & Platforms**:
-
-<img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=50 title="Git">
-<img src="https://justmrnone.github.io/NeverEndingPong/logos/Docker.png" height=50 title="Docker"> 
-<img src="https://justmrnone.github.io/NeverEndingPong/logos/Bash.png" height=50 title="Bash">
-<img src="https://justmrnone.github.io/NeverEndingPong/logos/jupyterlab.png" height=50 title="Jupyter">
-<img src="https://justmrnone.github.io/NeverEndingPong/logos/npm.png" height=50 title="npm">
-<img src="https://justmrnone.github.io/NeverEndingPong/logos/Yarn.png" height=50 title="yarn">
-
+<div>
+   <img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=50 title="Git">
+   <img src="https://justmrnone.github.io/NeverEndingPong/logos/Docker.png" height=50 title="Docker"> 
+   <img src="https://justmrnone.github.io/NeverEndingPong/logos/Bash.png" height=50 title="Bash">
+   <img src="https://justmrnone.github.io/NeverEndingPong/logos/jupyterlab.png" height=50 title="Jupyter">
+   <img src="https://justmrnone.github.io/NeverEndingPong/logos/npm.png" height=50 title="npm">
+   <img src="https://justmrnone.github.io/NeverEndingPong/logos/Yarn.png" height=50 title="yarn">
+</div>
 
 ### 🤘 About Me
 

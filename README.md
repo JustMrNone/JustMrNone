@@ -13,7 +13,7 @@
 
 - **Programming Languages**: <br>
 <div>
-   <img src="https://justmrnone.github.io/NeverEndingPong/logos/Python.png" height=50 title="Python">
+   <img src="https://justmrnone.github.io/NeverEndingPong/logos/Python.png" height=50 title="Python" style="pointer-events: none;">
    <img src="https://justmrnone.github.io/NeverEndingPong/logos/JS.png" height=50 title="JavaScript">
    <img src="https://justmrnone.github.io/NeverEndingPong/logos/TS.png" height=50 title="TypeScript">
    <img src="https://justmrnone.github.io/NeverEndingPong/logos/Rust.png" height=50 title="Rust">

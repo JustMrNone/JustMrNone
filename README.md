@@ -13,7 +13,7 @@
 
 **Pʀᴏɢʀᴀᴍᴍɪɴɢ Lᴀɴɢᴜᴀɢᴇꜱ**: <br>
 <div>
-   <a href=""><img src="https://justmrnone.github.io/NeverEndingPong/logos/Python.png" height=50 title="Python"></a>
+   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Python.png" height=50 title="Python"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/JS.png" height=50 title="JavaScript"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/TS.png" height=50 title="TypeScript"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Rust.png" height=50 title="Rust"></a>

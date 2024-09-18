@@ -36,7 +36,7 @@
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/nextjs.png" height=50 title="Nextjs"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/React.png" height=50 title="React"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bootstrap.png" height=50 title="Bootstrap"></a>
-   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Tailwind.png" height=35 title="TailwindCSS"></a>
+   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Tailwind.png" height=40 title="TailwindCSS"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Material.png" height=50 title="MaterialUI"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Pandas.png" height=50 title="Pandas"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Matplotlib.png" height=50 title="Matplotlib"></a>

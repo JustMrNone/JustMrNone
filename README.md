@@ -47,8 +47,8 @@
 **Tᴏᴏʟꜱ & Pʟᴀᴛꜰᴏʀᴍꜱ**: <br>
 <div>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Linux.png" height=50 title="Linux"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Kali.png" height=50 title="Kali Linux"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/PI.png" height=50 title="Raspberry Pi"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Kali.png" height=50 title="Kali Linux"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bash.png" height=50 title="Bash"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=50 title="Git"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Docker.png" height=50 title="Docker"></a>

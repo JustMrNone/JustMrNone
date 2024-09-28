@@ -59,7 +59,6 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Yarn.png" height=50 title="yarn"></a>
 </div>
 
-
 <br>
 
 **Dᴀᴛᴀʙᴀꜱᴇ Mᴀɴᴀɢᴇᴍᴇɴᴛ Sʏꜱᴛᴇᴍꜱ**: <br> 
@@ -80,7 +79,6 @@
 
 **Pʀᴏꜰᴇꜱꜱɪᴏɴ**: Fᴜʟʟ-Sᴛᴀᴄᴋ Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ, Dᴀᴛᴀ ᴀɴᴀʟʏꜱᴛ. 🔧<br>
 **Cᴜʀʀᴇɴᴛʟʏ Rᴇꜱᴇᴀʀᴄʜɪɴɢ**: Cʏʙᴇʀ ꜱᴇᴄᴜʀɪᴛʏ, Qᴜᴀɴᴛᴜᴍ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ, Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ. ✒️
-
 
 <!--
 Poetry, Jenkins, GitHub Actions, GitLab CI, Kubernetes, AWS.

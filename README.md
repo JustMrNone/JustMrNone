@@ -20,7 +20,6 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C.png" height=50 title="C"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C++.png" height=50 title="C++"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/SQL.png" height=50 title="SQL"></a>
- <!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/GO.png" height=50 title="Go"></a> -->
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/(R).png" height=50 title="R"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/HTML.png" height=50 title="HTML"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/CSS.png" height=50 title="CSS"></a>
@@ -54,6 +53,8 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=50 title="Git"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Arduino.png" height=50 title="Arduino"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Docker.png" height=50 title="Docker"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Nginx.png" height=50 title="Nginx"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Apache.png" height=50 title="Apache"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Poetry.png" height=50 title="Poetry"></a>
  <!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/jupyterlab.png" height=50 title="Jupyter"></a> -->
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/npm.png" height=50 title="npm"></a>

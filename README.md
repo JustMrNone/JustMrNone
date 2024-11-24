@@ -52,7 +52,7 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=50 title="Git"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Docker.png" height=50 title="Docker"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Nginx.png" height=50 title="Nginx"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Kubernetes.png" height=50 title="Kubernetes"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Kubernets.png" height=50 title="Kubernetes"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Poetry.png" height=50 title="Poetry"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Jenkins.png" height=50 title="Jenkins"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Prometheus.png" height=50 title="Prometheus"></a>

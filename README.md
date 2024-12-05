@@ -6,7 +6,7 @@
    <a href="https://justmrnone.github.io/NeverEndingPong">
       <img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" title="Click Me" width=100%>
    </a>
-      <img src="https://justmrnone.github.io/NeverEndingPong/divider-sumiekou.gif" title="Click Me" width=100%>
+      <img src="https://justmrnone.github.io/NeverEndingPong/logos/divider-sumiekou.gif" title="Click Me" width=100%>
 </div>
 
 

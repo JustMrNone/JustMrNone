@@ -76,14 +76,6 @@
 </div>
 
 
-
-<!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Apache.png" height=50 title="Apache"></a> -->
-<!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/jupyterlab.png" height=50 title="Jupyter"></a> -->
-<!--  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/npm.png" height=50 title="npm"></a> -->
-<!--  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Yarn.png" height=50 title="yarn"></a> -->
-<!--  <br>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/And-more.png" height=50 title="More.."></a> -->
-
 ## 🤘 Ａｂｏｕｔ Ｍｅ
 
 <div align="center">  
@@ -95,6 +87,12 @@
 
 I post about software engineering and quantum information on my website. Check it out: &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.quantum-co.dev" target="_blank" rel="noopener noreferrer"><img src="https://justmrnone.github.io/NeverEndingPong/logos/QC.png" title="Quantum-Co" width="270px"></a>
 
+<!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Apache.png" height=50 title="Apache"></a> -->
+<!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/jupyterlab.png" height=50 title="Jupyter"></a> -->
+<!--  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/npm.png" height=50 title="npm"></a> -->
+<!--  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Yarn.png" height=50 title="yarn"></a> -->
+<!--  <br>
+<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/And-more.png" height=50 title="More.."></a> -->
 <!--
 Poetry, Jenkins, GitHub Actions, GitLab CI, Kubernetes, AWS.
 ## 📜 Certifications 

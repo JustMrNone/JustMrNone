@@ -84,7 +84,7 @@
 
 **Pʀᴏꜰᴇꜱꜱɪᴏɴ**: Fᴜʟʟ-Sᴛᴀᴄᴋ Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ, Dᴀᴛᴀ ᴀɴᴀʟʏꜱᴛ. 🔧<br>
 **Cᴜʀʀᴇɴᴛʟʏ Rᴇꜱᴇᴀʀᴄʜɪɴɢ**: Cʏʙᴇʀ ꜱᴇᴄᴜʀɪᴛʏ, Qᴜᴀɴᴛᴜᴍ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ, Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ. ✒️
-
+<img src="https://justmrnone.github.io/NeverEndingPong/logos/QC.png" title="Quantum-Co" width="150px">
 I post about software engineering and quantum information on my website. Check it out: &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.quantum-co.dev" target="_blank" rel="noopener noreferrer"><img src="https://justmrnone.github.io/NeverEndingPong/logos/QC.png" title="Quantum-Co" width="270px"></a>
 
 <!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Apache.png" height=50 title="Apache"></a> -->

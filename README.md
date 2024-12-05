@@ -93,7 +93,7 @@
 **Pʀᴏꜰᴇꜱꜱɪᴏɴ**: Fᴜʟʟ-Sᴛᴀᴄᴋ Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ, Dᴀᴛᴀ ᴀɴᴀʟʏꜱᴛ. 🔧<br>
 **Cᴜʀʀᴇɴᴛʟʏ Rᴇꜱᴇᴀʀᴄʜɪɴɢ**: Cʏʙᴇʀ ꜱᴇᴄᴜʀɪᴛʏ, Qᴜᴀɴᴛᴜᴍ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ, Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ. ✒️
 
-I͓̽ ͓̽p͓̽o͓̽s͓̽t͓̽ ͓̽a͓̽b͓̽o͓̽u͓̽t͓̽ ͓̽s͓̽o͓̽f͓̽t͓̽w͓̽a͓̽r͓̽e͓̽ ͓̽e͓̽n͓̽g͓̽i͓̽n͓̽e͓̽e͓̽r͓̽i͓̽n͓̽g͓̽ ͓̽a͓̽n͓̽d͓̽ ͓̽q͓̽u͓̽a͓̽n͓̽t͓̽u͓̽m͓̽ ͓̽i͓̽n͓̽f͓̽o͓̽r͓̽m͓̽a͓̽t͓̽i͓̽o͓̽n͓̽ ͓̽o͓̽n͓̽ ͓̽m͓̽y͓̽ ͓̽w͓̽e͓̽b͓̽s͓̽i͓̽t͓̽e͓̽.͓̽ ͓̽C͓̽h͓̽e͓̽c͓̽k͓̽ ͓̽i͓̽t͓̽ ͓̽o͓̽u͓̽t͓̽ <a href="https://www.quantum-co.dev" target="_blank" rel="noopener noreferrer"><img src="https://justmrnone.github.io/NeverEndingPong/logos/QC.png" title="Quantum-Co" width="250px"></a>
+I post about software engineering and quantum information on my website. Check it out: <a href="https://www.quantum-co.dev" target="_blank" rel="noopener noreferrer"><pre>    </pre><img src="https://justmrnone.github.io/NeverEndingPong/logos/QC.png" title="Quantum-Co" width="250px"></a>
 
 <!--
 Poetry, Jenkins, GitHub Actions, GitLab CI, Kubernetes, AWS.

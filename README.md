@@ -11,9 +11,7 @@
 
 ## 🦾 Ｍｙ Ｓｋｉｌｌｓ 
 <div align="center">  
-   <a href="https://justmrnone.github.io/NeverEndingPong">
-      <img src="https://justmrnone.github.io/NeverEndingPong/loading-glitch.gif" title="Click Me" width=100%>
-   </a>
+      <img src="https://justmrnone.github.io/NeverEndingPong/loading-glitch.gif" title="Loading..." width=100%>
 </div>
 
 **Pʀᴏɢʀᴀᴍᴍɪɴɢ Lᴀɴɢᴜᴀɢᴇꜱ**: <br>
@@ -89,9 +87,7 @@
 ## 🤘 Ａｂｏｕｔ Ｍｅ
 
 <div align="center">  
-   <a href="https://justmrnone.github.io/NeverEndingPong">
-      <img src="https://justmrnone.github.io/NeverEndingPong/logos/rainbow.gif" title="Click Me" width=100%>
-   </a>
+      <img src="https://justmrnone.github.io/NeverEndingPong/logos/rainbow.gif" width=100%>
 </div>
 
 **Pʀᴏꜰᴇꜱꜱɪᴏɴ**: Fᴜʟʟ-Sᴛᴀᴄᴋ Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ, Dᴀᴛᴀ ᴀɴᴀʟʏꜱᴛ. 🔧<br>

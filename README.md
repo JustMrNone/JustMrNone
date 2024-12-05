@@ -10,7 +10,7 @@
 
 <div align="center">  
    <a href="https://justmrnone.github.io/NeverEndingPong">
-      <img src="https://justmrnone.github.io/NeverEndingPong/loading-glitch.gif" title="Click Me" width=100%>
+      <img src="https://justmrnone.github.io/NeverEndingPong/logos/rainbow.gif" title="Click Me" width=100%>
    </a>
 </div>
 
@@ -89,10 +89,9 @@
 ## 🤘 Ａｂｏｕｔ Ｍｅ
 <div align="center">  
    <a href="https://justmrnone.github.io/NeverEndingPong">
-      <img src="https://justmrnone.github.io/NeverEndingPong/logos/rainbow.gif" title="Click Me" width=100%>
+      <img src="https://justmrnone.github.io/NeverEndingPong/loading-glitch.gif" title="Click Me" width=100%>
    </a>
 </div>
-
 **Pʀᴏꜰᴇꜱꜱɪᴏɴ**: Fᴜʟʟ-Sᴛᴀᴄᴋ Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ, Dᴀᴛᴀ ᴀɴᴀʟʏꜱᴛ. 🔧<br>
 **Cᴜʀʀᴇɴᴛʟʏ Rᴇꜱᴇᴀʀᴄʜɪɴɢ**: Cʏʙᴇʀ ꜱᴇᴄᴜʀɪᴛʏ, Qᴜᴀɴᴛᴜᴍ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ, Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ. ✒️
 

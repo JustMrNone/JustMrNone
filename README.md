@@ -6,7 +6,6 @@
    <a href="https://justmrnone.github.io/NeverEndingPong">
       <img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" title="Click Me" width=100%>
    </a>
-      <img src="https://justmrnone.github.io/NeverEndingPong/logos/divider-sumiekou.gif" title="Click Me" width=100%>
 </div>
 
 
@@ -105,5 +104,7 @@ Poetry, Jenkins, GitHub Actions, GitLab CI, Kubernetes, AWS.
 ### Other Certifications 
 
 [Kamyar Bashar's Other Certifications.pdf](https://github.com/user-attachments/files/16071910/Kamyar.Bashar.s.Other.Certifications.pdf)
+
+      <img src="https://justmrnone.github.io/NeverEndingPong/logos/divider-sumiekou.gif" title="Click Me" width=100%>
 -->
 

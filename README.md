@@ -97,7 +97,7 @@
 **Pʀᴏꜰᴇꜱꜱɪᴏɴ**: Fᴜʟʟ-Sᴛᴀᴄᴋ Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ, Dᴀᴛᴀ ᴀɴᴀʟʏꜱᴛ. 🔧<br>
 **Cᴜʀʀᴇɴᴛʟʏ Rᴇꜱᴇᴀʀᴄʜɪɴɢ**: Cʏʙᴇʀ ꜱᴇᴄᴜʀɪᴛʏ, Qᴜᴀɴᴛᴜᴍ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ, Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ. ✒️
 
-​🇮​ ​🇵​​🇴​​🇸​​🇹​ ​🇦​​🇧​​🇴​​🇺​​🇹​ **​🇸​​🇴​​🇫​​🇹​​🇼​​🇦​​🇷​​🇪​ ​🇪​​🇳​​🇬​​🇮​​🇳​​🇪​​🇪​​🇷​​🇮​​🇳​​🇬​** ​🇦​​🇳​​🇩​ ​**🇶​​🇺​​🇦​​🇳​​🇹​​🇺​​🇲​ ​🇮​​🇳​​🇫​​🇴​​🇷​​🇲​​🇦​​🇹​​🇮​​🇴​​🇳** ​🇴​​🇳​ ​🇲​​🇾​ ​🇼​​🇪​​🇧​​🇸​​🇮​​🇹​​🇪​, ​🇨​​🇭​​🇪​​🇨​​🇰​ ​🇮​​🇹​ ​🇴​​🇺​​🇹​: <a href="https://www.quantum-co.dev" target="_blank" rel="noopener noreferrer">Qᴜᴀɴᴛᴜᴍ-Cᴏ.ᴅᴇᴠ</a>
+I post about software engineering and quantum information on my website. Check it out: <a href="https://www.quantum-co.dev" target="_blank" rel="noopener noreferrer">Qᴜᴀɴᴛᴜᴍ-Cᴏ.ᴅᴇᴠ</a>
 
 <!--
 Poetry, Jenkins, GitHub Actions, GitLab CI, Kubernetes, AWS.

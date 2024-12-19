@@ -69,7 +69,6 @@
 <div>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=50 title="PostgreSQL"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/MySql.png" height=50 title="MySQL"></a>
-   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Oracle.png" height=50 title="Oracle"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/SQLite.png" height=50 title="SQLite"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Mongodb.png" height=50 title="Mongodb"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Redis.png" height=50 title="Redis"></a>
@@ -92,7 +91,9 @@ I post about software engineering and quantum information on my website. Check i
 <!--  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/npm.png" height=50 title="npm"></a> -->
 <!--  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Yarn.png" height=50 title="yarn"></a> -->
 <!--  <br>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/And-more.png" height=50 title="More.."></a> -->
+<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/And-more.png" height=50 title="More.."></a>
+<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Oracle.png" height=50 title="Oracle"></a>
+-->
 <!--
 Poetry, Jenkins, GitHub Actions, GitLab CI, Kubernetes, AWS.
 ## 📜 Certifications 

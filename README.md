@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">  
-   <a href="https://justmrnone.github.io/NeverEndingPong">
+   <a href="https://quantum-co.dev/about">
       <img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" title="Click Me" width=100%>
    </a>
 </div>

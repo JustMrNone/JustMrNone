@@ -95,7 +95,7 @@ I post about software engineering and quantum information on my website. Check i
 <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Oracle.png" height=50 title="Oracle"></a>
 -->
 <!--
-Poetry, Jenkins, GitHub Actions, GitLab CI, Kubernetes, AWS.
+GitHub Actions, GitLab CI, Kubernetes, AWS.
 ## 📜 Certifications 
 
 ### HarvardX Certifications 

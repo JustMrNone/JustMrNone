@@ -33,7 +33,7 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Flask.png" height=50 title="Flask"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/React.png" height=50 title="React"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bootstrap.png" height=50 title="Bootstrap"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Tailwind.png" height=30 width=40 title="TailwindCSS"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Tailwind.png" height==50 width=50 title="TailwindCSS"></a>
 </div>
 <br>
 

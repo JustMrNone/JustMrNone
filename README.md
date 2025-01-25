@@ -67,7 +67,7 @@
 </div>
 <div align="center">
   
-**I** also post about **Software Engineering** and **Quantum Information** on my **Website**. Check it out 👇 
+**I** ᴀʟꜱᴏ ᴘᴏꜱᴛ ᴀʙᴏᴜᴛ **Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀɪɴɢ** ᴀɴᴅ **Qᴜᴀɴᴛᴜᴍ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ** ᴏɴ ᴍʏ Wᴇʙꜱɪᴛᴇ. Cʜᴇᴄᴋ ɪᴛ ᴏᴜᴛ 👇 
 
 </div>
 

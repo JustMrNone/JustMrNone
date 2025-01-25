@@ -77,11 +77,8 @@
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=50 title="PostgreSQL"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/SQLite.png" height=50 title="SQLite"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Redis.png" height=50 title="Redis"></a>
-   
    <!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/MySql.png" height=50 title="MySQL"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Mongodb.png" height=50 title="Mongodb"></a> -->
-   
-   
 </div>
 
 

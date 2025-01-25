@@ -68,7 +68,7 @@
 </div>
 
 **Pʀᴏꜰᴇꜱꜱɪᴏɴ**: Fᴜʟʟ-Sᴛᴀᴄᴋ Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ.🔧<br>
-**I** also post about **Software Engineering** and **Quantum Information** on my <a href ="https://quantum-co.dev" title="Quantum-Co">**Website**</a>. Check it out: &nbsp;&nbsp;<a href="https://www.quantum-co.dev" target="_blank" rel="noopener noreferrer"><img src="https://justmrnone.github.io/NeverEndingPong/logos/QC.png" title="Quantum-Co" width="250px"></a>
+**I** also post about **Software Engineering** and **Quantum Information** on my <a href ="https://quantum-co.dev" title="Quantum-Co">**Website**</a>. Check it out: &nbsp;&nbsp;<a href="https://www.quantum-co.dev" target="_blank" rel="noopener noreferrer"><img src="https://justmrnone.github.io/NeverEndingPong/logos/QC.png" title="Quantum-Co" width="260px"></a>
 
 
 <!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Rust.png" height=50 title="Rust"></a>

@@ -63,14 +63,12 @@
 
 ## 🤘 Ａｂｏｕｔ Ｍｅ
 
+**Pʀᴏꜰᴇꜱꜱɪᴏɴ**: Fᴜʟʟ-Sᴛᴀᴄᴋ Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ.🔧<br>
+
+<br>
 <div align="center">  
       <img src="https://justmrnone.github.io/NeverEndingPong/logos/rainbow.gif" width=100%>
 </div>
-
-**Pʀᴏꜰᴇꜱꜱɪᴏɴ**: Fᴜʟʟ-Sᴛᴀᴄᴋ Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ.🔧<br>
-<br>
-
-<br>
 <div align="center">
 **I** also post about **Software Engineering** and **Quantum Information** on my **Website**. Check it out 👇 &nbsp;&nbsp;<a href="https://www.quantum-co.dev" target="_blank" rel="noopener noreferrer">
 </div>

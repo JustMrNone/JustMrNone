@@ -17,17 +17,17 @@
 **Pʀᴏɢʀᴀᴍᴍɪɴɢ Lᴀɴɢᴜᴀɢᴇꜱ**: <br>
 <div>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Python.png" height=50 title="Python"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C.png" height=50 title="C"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C++.png" height=50 title="C++"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/JS.png" height=50 title="JavaScript"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/TS.png" height=50 title="TypeScript"></a>
-  <!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Rust.png" height=50 title="Rust"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/SQL.png" height=50 title="SQL"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/(R).png" height=50 title="R"></a>
-    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Sass.png" height=50 title="Sass(Syntactically Awesome Stylesheets)"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/LESS.png" height=50 title="LESS(Leaner Style Sheets)"></a> -->
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C.png" height=50 title="C"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C++.png" height=50 title="C++"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/HTML.png" height=50 title="HTML"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/CSS.png" height=50 title="CSS"></a>
+    <!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Rust.png" height=50 title="Rust"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/SQL.png" height=50 title="SQL"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/(R).png" height=50 title="R"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Sass.png" height=50 title="Sass(Syntactically Awesome Stylesheets)"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/LESS.png" height=50 title="LESS(Leaner Style Sheets)"></a> -->
 
 </div>
 <br>
@@ -35,8 +35,6 @@
 **Fʀᴀᴍᴇᴡᴏʀᴋꜱ & Lɪʙʀᴀʀɪᴇꜱ**: <br>
 <div>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/django.png" height=50 title="Django"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Flask.png" height=50 title="Flask"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/nextjs.png" height=50 title="Nextjs"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/React.png" height=50 title="React"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Tailwind.png" height=40 title="TailwindCSS"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bootstrap.png" height=50 title="Bootstrap"></a>
@@ -44,13 +42,17 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Pandas.png" height=50 title="Pandas"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Matplotlib.png" height=50 title="Matplotlib"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/bokeh.png" height=50 title="Bookeh"></a>
+  
+  <!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Flask.png" height=50 title="Flask"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/nextjs.png" height=50 title="Nextjs"></a> -->
+  
 </div>
 <br>
 
 **Tᴏᴏʟꜱ & Pʟᴀᴛꜰᴏʀᴍꜱ**: <br>
 <div>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Linux.png" height=50 title="Linux"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Kali-Shield.png" height=52 title="Kali Linux"></a>
+  
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/PI.png" height=50 title="Raspberry Pi"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Arduino.png" height=50 title="Arduino"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bash.png" height=50 title="Bash"></a>
@@ -59,9 +61,12 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Docker.png" height=50 title="Docker"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Nginx.png" height=50 title="Nginx"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Kubernets.png" height=50 title="Kubernetes"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Jenkins.png" height=50 title="Jenkins"></a>
+  <!--
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Prometheus.png" height=50 title="Prometheus"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/grafana.png" height=50 title="Grafana"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Jenkins.png" height=50 title="Jenkins"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Kali-Shield.png" height=52 title="Kali Linux"></a>
+  -->
 </div>
 
 <br>
@@ -69,10 +74,13 @@
 **Dᴀᴛᴀʙᴀꜱᴇ Mᴀɴᴀɢᴇᴍᴇɴᴛ Sʏꜱᴛᴇᴍꜱ**: <br> 
 <div>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=50 title="PostgreSQL"></a>
-   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/MySql.png" height=50 title="MySQL"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/SQLite.png" height=50 title="SQLite"></a>
-   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Mongodb.png" height=50 title="Mongodb"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Redis.png" height=50 title="Redis"></a>
+   
+   <!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/MySql.png" height=50 title="MySQL"></a>
+   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Mongodb.png" height=50 title="Mongodb"></a> -->
+   
+   
 </div>
 
 

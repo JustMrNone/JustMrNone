@@ -23,8 +23,6 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/CSS.png" height=50 title="CSS"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C.png" height=50 title="C"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C++.png" height=50 title="C++"></a>
-  
-
 </div>
 <br>
 
@@ -36,8 +34,8 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/React.png" height=50 title="React"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bootstrap.png" height=50 title="Bootstrap"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Tailwind.png" height=38 title="TailwindCSS"></a>
-  
 </div>
+<br>
 
 **Tᴏᴏʟꜱ & Pʟᴀᴛꜰᴏʀᴍꜱ**: <br>
 <div>
@@ -48,7 +46,6 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Docker.png" height=50 title="Docker"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Kubernets.png" height=50 title="Kubernetes"></a>
 </div>
-
 <br>
 
 **Dʙᴍꜱ & Wᴇʙ Sᴇʀᴠᴇʀ & Cɪ/Cᴅ & Cᴀᴄʜɪɴɢ​**: <br> 
@@ -70,12 +67,12 @@
 </div>
 <div align="center">
   
-**I** also post about **Software Engineering** and **Quantum Information** on my **Website**. Check it out 👇 &nbsp;&nbsp;<a href="https://www.quantum-co.dev" target="_blank" rel="noopener noreferrer">
+**I** also post about **Software Engineering** and **Quantum Information** on my **Website**. Check it out 👇 
 
 </div>
 
 <div align="center">
-<img src="https://justmrnone.github.io/NeverEndingPong/logos/QC.png" title="Quantum-Co" width="300px"></a>
+<a href="https://www.quantum-co.dev" target="_blank" rel="noopener noreferrer"><img src="https://justmrnone.github.io/NeverEndingPong/logos/QC.png" title="Quantum-Co" width="300px"></a>
 </div>
 
 
@@ -126,4 +123,5 @@ GitHub Actions, GitLab CI, Kubernetes, AWS.
 
       <img src="https://justmrnone.github.io/NeverEndingPong/logos/divider-sumiekou.gif" title="Click Me" width=100%>
 -->
+<!-- &nbsp;&nbsp; --> 
 

@@ -51,7 +51,7 @@
 
 <br>
 
-**DBMS & Wᴇʙ Sᴇʀᴠᴇʀ & CI/CD & 𝖢𝖺𝖼𝗁𝗂𝗇𝗀**: <br> 
+**DBMS & Wᴇʙ Sᴇʀᴠᴇʀ & CI/CD & Cᴀᴄʜɪɴɢ​**: <br> 
 <div>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=50 title="PostgreSQL"></a>
    <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/SQLite.png" height=50 title="SQLite"></a>

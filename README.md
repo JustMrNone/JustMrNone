@@ -11,7 +11,7 @@
 
 ## 🦾 Ｍｙ Ｓｋｉｌｌｓ 
 <div align="center">  
-      <img src="https://justmrnone.github.io/NeverEndingPong/loading-glitch.gif" title="Skills Are Loading..." width=100%>
+      <img src="https://justmrnone.github.io/NeverEndingPong/loading-glitch.gif" title="Skills are Loading..." width=100%>
 </div>
 
 **Pʀᴏɢʀᴀᴍᴍɪɴɢ Lᴀɴɢᴜᴀɢᴇꜱ**: <br>

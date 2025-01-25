@@ -52,8 +52,6 @@
 **Tᴏᴏʟꜱ & Pʟᴀᴛꜰᴏʀᴍꜱ**: <br>
 <div>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Linux.png" height=50 title="Linux"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/PI.png" height=50 title="Raspberry Pi"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Arduino.png" height=50 title="Arduino"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bash.png" height=50 title="Bash"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=50 title="Git"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Poetry.png" height=50 title="Poetry"></a>
@@ -61,7 +59,10 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Nginx.png" height=50 title="Nginx"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Kubernets.png" height=50 title="Kubernetes"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Jenkins.png" height=50 title="Jenkins"></a>
+  
   <!--
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/PI.png" height=50 title="Raspberry Pi"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Arduino.png" height=50 title="Arduino"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Prometheus.png" height=50 title="Prometheus"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/grafana.png" height=50 title="Grafana"></a>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Kali-Shield.png" height=52 title="Kali Linux"></a>

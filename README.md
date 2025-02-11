@@ -74,7 +74,7 @@
 </div>
 
 
-
+<!-- STOP SNOOPING! -->
 
 <!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Rust.png" height=50 title="Rust"></a>
 <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/SQL.png" height=50 title="SQL"></a>

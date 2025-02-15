@@ -20,8 +20,7 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/TS.png" height=50 title="TypeScript"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/HTML.png" height=50 title="HTML"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/CSS.png" height=50 title="CSS"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C.png" height=50 title="C"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C++.png" height=50 title="C++"></a>&nbsp;&nbsp;
+
 </div>
 <br>
 
@@ -74,7 +73,9 @@
 </div>
 
 
-<!-- STOP SNOOPING! -->
+<!--   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C.png" height=50 title="C"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C++.png" height=50 title="C++"></a>&nbsp;&nbsp;
+  -->
 
 <!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Rust.png" height=50 title="Rust"></a>
 <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/SQL.png" height=50 title="SQL"></a>

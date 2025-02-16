@@ -28,7 +28,6 @@
 <div>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/django.png" height=50 title="Django"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/allauth.png" height=50 title="allauth"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Flask.png" height=50 title="Flask"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/React.png" height=50 title="React"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bootstrap.png" height=50 title="Bootstrap"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Tailwind.png" height=40 title="TailwindCSS"></a>&nbsp;&nbsp;
@@ -75,6 +74,7 @@
 
 <!--   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C.png" height=50 title="C"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C++.png" height=50 title="C++"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Flask.png" height=50 title="Flask"></a>&nbsp;&nbsp;
   -->
 
 <!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Rust.png" height=50 title="Rust"></a>

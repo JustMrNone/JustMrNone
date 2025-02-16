@@ -8,7 +8,7 @@
    </a>
 </div>
 
-## 🦾 Ｍｙ Ｓｋｉｌｌｓ 
+## 🦾 Ｍｙ Ｔｅｃｈ Ｓｔａｃｋ
 <div align="center">  
       <img src="https://justmrnone.github.io/NeverEndingPong/loading-glitch.gif" title="Skills Are Loading..." width=100%>
 </div>
@@ -32,6 +32,16 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bootstrap.png" height=50 title="Bootstrap"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Tailwind.png" height=40 title="TailwindCSS"></a>&nbsp;&nbsp;
 <br>
+  
+**Dʙᴍꜱ & Wᴇʙ Sᴇʀᴠᴇʀ & Cɪ/Cᴅ & Cᴀᴄʜɪɴɢ​**: <br> 
+<div>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=50 title="PostgreSQL"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/MySql.png" height=50 title="MySQL"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Nginx.png" height=50 title="Nginx"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Jenkins.png" height=50 title="Jenkins"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Redis.png" height=50 title="Redis"></a>&nbsp;&nbsp;
+</div>
+<br>
 
 **Tᴏᴏʟꜱ & Pʟᴀᴛꜰᴏʀᴍꜱ**: <br>
 <div>
@@ -41,16 +51,6 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Poetry.png" height=50 title="Poetry"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Docker.png" height=50 title="Docker"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Kubernets.png" height=48 title="Kubernetes"></a>&nbsp;&nbsp;
-</div>
-<br>
-
-**Dʙᴍꜱ & Wᴇʙ Sᴇʀᴠᴇʀ & Cɪ/Cᴅ & Cᴀᴄʜɪɴɢ​**: <br> 
-<div>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=50 title="PostgreSQL"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/MySql.png" height=50 title="MySQL"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Nginx.png" height=50 title="Nginx"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Jenkins.png" height=50 title="Jenkins"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Redis.png" height=50 title="Redis"></a>&nbsp;&nbsp;
 </div>
 <br>
 

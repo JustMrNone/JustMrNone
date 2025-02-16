@@ -32,7 +32,8 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bootstrap.png" height=50 title="Bootstrap"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Tailwind.png" height=40 title="TailwindCSS"></a>&nbsp;&nbsp;
 <br>
-<br>
+<br> 
+  
 **Dʙᴍꜱ & Wᴇʙ Sᴇʀᴠᴇʀ & Cɪ/Cᴅ & Cᴀᴄʜɪɴɢ​**: <br> 
 <div>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=50 title="PostgreSQL"></a>&nbsp;&nbsp;

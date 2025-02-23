@@ -110,6 +110,7 @@
 <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/And-more.png" height=50 title="More.."></a>
 <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Oracle.png" height=50 title="Oracle"></a>
 -->
+
 <!--
 GitHub Actions, GitLab CI, Kubernetes, AWS.
 ## 📜 Certifications 

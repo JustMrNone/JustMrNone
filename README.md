@@ -19,6 +19,7 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Python.png" height=50 title="Python"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/JS.png" height=50 title="JavaScript"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/TS.png" height=50 title="TypeScript"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/GO.png" height=50 title="Go"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/HTML.png" height=50 title="HTML"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/CSS.png" height=50 title="CSS"></a>&nbsp;&nbsp;
 

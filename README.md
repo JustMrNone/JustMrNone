@@ -49,10 +49,10 @@
 
 **Tᴏᴏʟꜱ & Pʟᴀᴛꜰᴏʀᴍꜱ**: <br>
 <div>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Linux.png" height=50 title="Linux"></a>&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bash.png" height=50 title="Bash"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=50 title="Git"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Poetry.png" height=50 title="Poetry"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Linux.png" height=60 title="Linux"></a>&nbsp;
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bash.png" height=60 title="Bash"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=60 title="Git"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Poetry.png" height=60 title="Poetry"></a>&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />&nbsp;&nbsp;
 </div>

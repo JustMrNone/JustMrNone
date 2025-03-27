@@ -16,44 +16,45 @@
 
 **Pʀᴏɢʀᴀᴍᴍɪɴɢ Lᴀɴɢᴜᴀɢᴇꜱ**: <br>
 <div>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Python.png" height=50 title="Python"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/GO.png" height=50 title="Go"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/JS.png" height=50 title="JavaScript"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/TS.png" height=50 title="TypeScript"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/HTML.png" height=50 title="HTML"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/CSS.png" height=50 title="CSS"></a>&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/GO.png" height=65 title="Go"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/JS.gif" height=80 title="JavaScript"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/TS.gif" height=80 title="TypeScript"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Html.gif" height=80 title="HTML"></a>
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Rcss.png" height=70 title="CSS"></a>&nbsp;&nbsp;
+   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="70" height="70" />
 
 </div>
-<br>
+<br> 
 
 **Fʀᴀᴍᴇᴡᴏʀᴋꜱ & Lɪʙʀᴀʀɪᴇꜱ**: <br>
 <div>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/django.png" height=50 title="Django"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/allauth.png" height=50 title="allauth"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/React.png" height=50 title="React"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bootstrap.png" height=50 title="Bootstrap"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Tailwind.png" height=40 title="TailwindCSS"></a>&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="60" height="60" title="Django"/>&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" title="Rest API"/>&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" title="React"/>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" height=55 title="Bootstrap"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" height=55 title="TailwindCSS"></a>&nbsp;&nbsp;
 <br>
 <br> 
   
 **Dʙᴍꜱ & Wᴇʙ Sᴇʀᴠᴇʀ & Cɪ/Cᴅ & Cᴀᴄʜɪɴɢ​**: <br> 
 <div>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=50 title="PostgreSQL"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/MySql.png" height=50 title="MySQL"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Nginx.png" height=50 title="Nginx"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Jenkins.png" height=50 title="Jenkins"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Redis.png" height=50 title="Redis"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=50 title="PostgreSQL"></a>&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Redis.png" height=65 title="Redis"></a>&nbsp;&nbsp;
 </div>
 <br>
 
 **Tᴏᴏʟꜱ & Pʟᴀᴛꜰᴏʀᴍꜱ**: <br>
 <div>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Linux.png" height=50 title="Linux"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Linux.png" height=50 title="Linux"></a>&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bash.png" height=50 title="Bash"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=50 title="Git"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Poetry.png" height=50 title="Poetry"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Docker.png" height=50 title="Docker"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Kubernets.png" height=48 title="Kubernetes"></a>&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />&nbsp;&nbsp;
 </div>
 <br>
 
@@ -79,6 +80,7 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C++.png" height=50 title="C++"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Flask.png" height=50 title="Flask"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/SQLite.png" height=50 title="SQLite"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Jenkins.png" height=50 title="Jenkins"></a>&nbsp;&nbsp;
   -->
 
 <!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Rust.png" height=50 title="Rust"></a>

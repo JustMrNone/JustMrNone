@@ -39,7 +39,7 @@
   
 **Dʙᴍꜱ & Wᴇʙ Sᴇʀᴠᴇʀ & Cɪ/Cᴅ & Cᴀᴄʜɪɴɢ​**: <br> 
 <div>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=50 title="PostgreSQL"></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=60 title="PostgreSQL"></a>&nbsp;&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />

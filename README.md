@@ -42,7 +42,7 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=60 title="PostgreSQL"></a>&nbsp;&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" title="MySQL"/>
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" title="Nginx"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" title="Here:GitHub"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" title="GitHub"/>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Redis.png" height=65 title="Redis"></a>&nbsp;&nbsp;
 </div>
 <br>

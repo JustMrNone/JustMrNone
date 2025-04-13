@@ -40,9 +40,9 @@
 **Dʙᴍꜱ & Wᴇʙ Sᴇʀᴠᴇʀ & Cɪ/Cᴅ & Cᴀᴄʜɪɴɢ​**: <br> 
 <div>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=60 title="PostgreSQL"></a>&nbsp;&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" title="MySQL"/>
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" title="Nginx"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" title="Here:GitHub"/>
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Redis.png" height=65 title="Redis"></a>&nbsp;&nbsp;
 </div>
 <br>
@@ -53,8 +53,8 @@
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Bash.png" height=60 title="Bash"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=60 title="Git"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Poetry.png" height=60 title="Poetry"></a>&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" title="Docker"/>&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" title="kubernetes"/>&nbsp;&nbsp;
 </div>
 <br>
 
